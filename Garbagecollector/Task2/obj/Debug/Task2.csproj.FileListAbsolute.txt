@@ -1,0 +1,7 @@
+E:\GC\Garbagecollector\Garbagecollector\Task2\bin\Debug\Task2.exe.config
+E:\GC\Garbagecollector\Garbagecollector\Task2\bin\Debug\Task2.exe
+E:\GC\Garbagecollector\Garbagecollector\Task2\bin\Debug\Task2.pdb
+E:\GC\Garbagecollector\Garbagecollector\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\GC\Garbagecollector\Garbagecollector\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\GC\Garbagecollector\Garbagecollector\Task2\obj\Debug\Task2.exe
+E:\GC\Garbagecollector\Garbagecollector\Task2\obj\Debug\Task2.pdb
