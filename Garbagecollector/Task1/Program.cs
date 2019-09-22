@@ -33,7 +33,7 @@ namespace Task1
             {
                 for (int i = 0; i < inst2.obj.Length; i++)
                 {
-                    inst2.obj[1] = new string[500];
+                    inst2.obj[i] = new string[500];
                 }
             }
             GC.Collect();
